@@ -1,0 +1,16 @@
+SMAP
+insertSeries_jsp.java
+JSP
+*S JSP
+*F
++ 0 insertSeries.jsp
+paginas/insertSeries.jsp
++ 1 Cargadores.jsp
+paginas/Cargadores.jsp
+*L
+1:54
+1#1,12:55
+2#0,67:67
+70,34:136
+103,18:170
+*E

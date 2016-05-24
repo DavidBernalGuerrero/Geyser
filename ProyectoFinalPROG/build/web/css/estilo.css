@@ -1,0 +1,92 @@
+
+html {
+  width: 100%;
+}
+
+form.login div {
+  margin: 2.5em auto;
+}
+
+div.login {
+  border: 2px solid blue;
+  border-radius: 50px;
+  box-shadow: 10px 10px 5px #888888;
+  padding: 4em 3em;
+  width: 40%;
+  margin: 5em auto;
+}
+
+div.login:hover {
+  opacity: 0.9;
+}
+
+div.login h1 {
+  text-transform: uppercase;
+  font-style: italic;
+}
+
+button[type=reset] {
+  padding: 0.5em 0;
+  width: 30%;
+}
+
+button[type=submit] {
+  width: 30%;
+  margin: auto 2em auto 0;
+  float: left;
+}
+
+tr:nth-child(2n) {
+  background-color: #eee;
+}
+
+table {
+  width: 90%;
+}
+
+nav {
+  width: 100%;
+  background-color: #eee;
+  position: fixed;
+  top: 0;
+  left: 0;
+  opacity: 0.5;  
+}
+
+
+a#logout {
+  float: right;
+  width: 10%;
+  color: white;
+  font-weight: 700;
+  margin: 0.5em 2em 0.5em 0;
+}
+
+div.contenido {
+  margin: 3.2em 0 7em 0;
+}
+
+footer {
+  background-color: #eee;
+  opacity: 0.6;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  margin-bottom: 1em;
+}
+
+footer:hover {
+  opacity: 1;
+}
+
+div#buscador {
+  margin: 1em 3em;
+  width: 60%;
+}
+
+form[action="insertSeries.jsp"] button[type=submit] {
+  width: 100%;
+  margin: auto 2em auto 0;
+  float: left;
+}
